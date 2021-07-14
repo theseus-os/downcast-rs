@@ -1,3 +1,8 @@
+# This Theseus OS fork no longer needed
+As of this PR, this fork is no longer needed and has been archived. 
+
+--> https://github.com/theseus-os/Theseus/pull/408
+
 # downcast-rs
 
 Rust enums are great for types where all variations are known beforehand. But in
